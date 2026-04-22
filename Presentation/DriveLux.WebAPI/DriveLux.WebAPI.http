@@ -1,0 +1,6 @@
+@DriveLux.WebAPI_HostAddress = http://localhost:5120
+
+GET {{DriveLux.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

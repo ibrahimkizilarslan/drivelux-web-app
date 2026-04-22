@@ -10,9 +10,9 @@
 *.userosscache
 *.sln.docstates
 
-Frontends/RentACarProject.WebUI/wwwroot/
+Frontends/DriveLux.WebUI/wwwroot/
 
-Infrastructure/RentACar.Persistence/Migrations/
+Infrastructure/DriveLux.Persistence/Migrations/
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
